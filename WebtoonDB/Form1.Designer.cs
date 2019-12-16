@@ -59,20 +59,20 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label3.Location = new System.Drawing.Point(631, 240);
+            this.label3.Font = new System.Drawing.Font("서울남산 장체 M", 13.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label3.Location = new System.Drawing.Point(582, 242);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(124, 32);
+            this.label3.Size = new System.Drawing.Size(102, 28);
             this.label3.TabIndex = 15;
             this.label3.Text = "for writer";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 34.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label2.Location = new System.Drawing.Point(41, 162);
+            this.label2.Font = new System.Drawing.Font("서울남산 장체 M", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label2.Location = new System.Drawing.Point(99, 175);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(573, 67);
+            this.label2.Size = new System.Drawing.Size(527, 71);
             this.label2.TabIndex = 14;
             this.label2.Text = "Management System";
             // 
@@ -81,24 +81,24 @@
             this.progressBar.ForeColor = System.Drawing.Color.LimeGreen;
             this.progressBar.Location = new System.Drawing.Point(111, 335);
             this.progressBar.Name = "progressBar";
-            this.progressBar.Size = new System.Drawing.Size(470, 11);
+            this.progressBar.Size = new System.Drawing.Size(524, 11);
             this.progressBar.Step = 5;
             this.progressBar.TabIndex = 13;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 34.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label1.Location = new System.Drawing.Point(249, 64);
+            this.label1.Font = new System.Drawing.Font("서울남산 장체 M", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label1.Location = new System.Drawing.Point(222, 66);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(329, 67);
+            this.label1.Size = new System.Drawing.Size(282, 71);
             this.label1.TabIndex = 12;
             this.label1.Text = "WEBTOON";
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(111, 35);
+            this.pictureBox1.Location = new System.Drawing.Point(84, 37);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(122, 124);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -116,9 +116,9 @@
             this.panel1.Controls.Add(this.progressBar);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Location = new System.Drawing.Point(145, 160);
+            this.panel1.Location = new System.Drawing.Point(133, 166);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(777, 379);
+            this.panel1.Size = new System.Drawing.Size(732, 379);
             this.panel1.TabIndex = 16;
             // 
             // panel3
@@ -127,7 +127,7 @@
             this.panel3.Controls.Add(this.panel2);
             this.panel3.Controls.Add(this.label7);
             this.panel3.Controls.Add(this.pictureBox2);
-            this.panel3.Location = new System.Drawing.Point(113, 54);
+            this.panel3.Location = new System.Drawing.Point(97, 50);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(806, 605);
             this.panel3.TabIndex = 20;
@@ -136,10 +136,10 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label4.Location = new System.Drawing.Point(702, 81);
+            this.label4.Font = new System.Drawing.Font("서울남산 장체 M", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label4.Location = new System.Drawing.Point(640, 78);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(81, 24);
+            this.label4.Size = new System.Drawing.Size(123, 34);
             this.label4.TabIndex = 18;
             this.label4.Text = "for writer";
             // 
@@ -148,7 +148,7 @@
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel2.Controls.Add(this.panel4);
             this.panel2.Controls.Add(this.loginBtn);
-            this.panel2.Location = new System.Drawing.Point(139, 219);
+            this.panel2.Location = new System.Drawing.Point(171, 219);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(475, 344);
             this.panel2.TabIndex = 17;
@@ -166,39 +166,39 @@
             // 
             // loginPW
             // 
-            this.loginPW.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.loginPW.Font = new System.Drawing.Font("서울남산 장체 M", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.loginPW.Location = new System.Drawing.Point(130, 64);
             this.loginPW.Name = "loginPW";
-            this.loginPW.Size = new System.Drawing.Size(200, 27);
+            this.loginPW.Size = new System.Drawing.Size(200, 31);
             this.loginPW.TabIndex = 11;
             this.loginPW.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.loginPW_KeyPress);
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label5.Font = new System.Drawing.Font("서울남산 장체 M", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label5.Location = new System.Drawing.Point(20, 69);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(107, 20);
+            this.label5.Size = new System.Drawing.Size(99, 24);
             this.label5.TabIndex = 10;
             this.label5.Text = "PASSWORD";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label6.Font = new System.Drawing.Font("서울남산 장체 M", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label6.Location = new System.Drawing.Point(20, 28);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(26, 20);
+            this.label6.Size = new System.Drawing.Size(26, 24);
             this.label6.TabIndex = 9;
             this.label6.Text = "ID";
             // 
             // loginID
             // 
-            this.loginID.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.loginID.Font = new System.Drawing.Font("서울남산 장체 M", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.loginID.Location = new System.Drawing.Point(130, 22);
             this.loginID.Name = "loginID";
-            this.loginID.Size = new System.Drawing.Size(200, 27);
+            this.loginID.Size = new System.Drawing.Size(200, 31);
             this.loginID.TabIndex = 8;
             this.loginID.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.loginID_KeyPress);
             // 
@@ -210,7 +210,7 @@
             this.loginBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Beige;
             this.loginBtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Ivory;
             this.loginBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.loginBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.loginBtn.Font = new System.Drawing.Font("서울남산 장체 M", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.loginBtn.Location = new System.Drawing.Point(142, 228);
             this.loginBtn.Name = "loginBtn";
             this.loginBtn.Size = new System.Drawing.Size(186, 54);
@@ -222,10 +222,10 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label7.Font = new System.Drawing.Font("서울남산 장체 M", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label7.Location = new System.Drawing.Point(140, 36);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(543, 44);
+            this.label7.Size = new System.Drawing.Size(508, 47);
             this.label7.TabIndex = 16;
             this.label7.Text = "Webtoon Management System";
             // 

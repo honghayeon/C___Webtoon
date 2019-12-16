@@ -20,14 +20,13 @@ namespace WebtoonDB
         }
 
         MySqlConnection conn;
-        MySqlDataAdapter dataAdapter;
-        DataSet dataSet;
         private void Form1_Load(object sender, EventArgs e)
         {
-            timer1.Interval = 200;
+            timer1.Interval = 100;
             timer1.Start();
 
-            string connStr = "server=localhost;port=3305;database=webtoon;uid=root;pwd=taranfu35";
+            // string connStr = "server=localhost;port=3305;database=webtoon;uid=root;pwd=taranfu35";
+            string connStr = "server=localhost;port=3306;database=webtoon;uid=root;pwd=1010";
             conn = new MySqlConnection(connStr);
 
             try
